@@ -15,9 +15,9 @@ Huffman_Codeing_IC/
 ├─ huffman.sv ....... Main function for Huffman coding
 ├─ testbench.sv ..... RTL testbench
 ├─ pattern.sv ....... RTL testing pattern
-├─ main.cpp ......... C++ function for generating huffman coding
+├─ main.cpp ......... C++ function to compute Huffman coding (for generating testing pattern)
 ├─ input.txt ........ input image
-└─ output.txt ....... output image
+└─ output.txt ....... output Huffman coding
 </pre>
 
 ## Requirements
@@ -25,3 +25,4 @@ Huffman_Codeing_IC/
 
 ## Contributor
 - [Hong-Ming Chiu](https://hong-ming.github.io/)
+- [Huan-Jung Lee]()
